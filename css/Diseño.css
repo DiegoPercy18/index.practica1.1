@@ -1,0 +1,106 @@
+
+
+/*PRIMER DIV: PORTADA//////////////////////////////////////////////////////////////////*/
+#portada{
+    text-align: center;
+    margin: auto;
+    padding: 1.00em;
+    width: 890px;
+    height: 900px;
+    background-color: white;
+    color: black;
+    border-radius: 13px;
+}
+#portada_1{
+    text-align: center;
+    margin: auto;
+    padding: 1.00em;
+    width: 890px;
+    height: auto;
+    background-color: white;
+    color: black;
+    border-radius: 13px;
+}
+
+#j18{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 17px;
+}
+
+#opens{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+#j28{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+    letter-spacing: 5px;
+}
+
+/*Apartado de navegacion*/
+ul#nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+  font-family: arial;
+  font-size: 14px;
+}
+
+#nav > li {
+  float: left;
+}
+
+#nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #333;
+}
+.seleccionada,
+.seleccionada:hover {
+  background-color: #1F4F46 ;
+  cursor: default;
+}
+
+/* apartado de integrantes */
+table{
+    width: 80%;
+    color: black;
+    
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+}
+
+th, td{
+    padding: 10px;
+    border:1px double;
+}
+/*tipo de letra parrafos*/
+p, .tipo{
+font-family: arial;
+}
+/*bottom*/
+.ir-arriba{
+  display: none;
+  padding: 20px;
+  background: white;
+  font-size: 20px;
+  color: #fff;
+  cursor: pointer;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+}
+

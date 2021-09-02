@@ -1,2 +1,2 @@
-# index.practica1.1
+# index.practicas de laboratorio web
 Definiciones de pagina web 
